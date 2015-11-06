@@ -66,6 +66,7 @@ while calc_array.length>0 do
 
 end #end of while loop
 
+#small comment
 puts running_total
 
 
